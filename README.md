@@ -2,18 +2,6 @@
   <img style="width:40%" src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
-
 ### Hi there 👋
 
 ### :man_technologist: About Me :
@@ -23,6 +11,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/flutter/flutter-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/vscode/vscode-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/android/android-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/angular/angular-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/swift/swift-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/xcode/xcode-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/oracle/oracle-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
 ### :fire::fire::fire: My Stats :
 
