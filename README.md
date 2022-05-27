@@ -12,15 +12,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/flutter/flutter-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/vscode/vscode-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/android/android-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/angular/angular-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/swift/swift-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/xcode/xcode-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/oracle/oracle-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/YasiruPriyadarshana/YasiruPriyadarshana/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="./icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
+  <img src="./icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="./icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
+  <img src="./icons/angular/angular-original.svg" title="angular" alt="angular" width="40" height="40"/>&nbsp;
+  <img src="./icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
+  <img src="./icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
+  <img src="./icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="40" height="40"/>&nbsp;
+  <img src="./icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="./icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire::fire::fire: My Stats :
