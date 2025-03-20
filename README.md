@@ -15,6 +15,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="./icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
   <img src="./icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="./icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
+  <img src="./icons/react/react-original.svg" title="react" alt="android" width="40" height="40"/>&nbsp;
   <img src="./icons/angular/angular-original.svg" title="angular" alt="angular" width="40" height="40"/>&nbsp;
   <img src="./icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
   <img src="./icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
